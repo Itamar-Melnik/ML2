@@ -28,5 +28,5 @@ Unsupervised learning algorithms used for clustering include:
 
 ## Repository Structure
 - **`data/`**: Folder containing the raw dataset.
-- **`Classification.ipynb`**: Python Jupyter Notebook for data preprocessing, classification.
-- **`Clustering.ipynb`**: Python Jupyter Notebook for data preprocessing, clustering.
+- **`Classification_ML.ipynb`**: Python Jupyter Notebook for data preprocessing, classification.
+- **`Clustering.ipynb_ML`**: Python Jupyter Notebook for data preprocessing, clustering.
