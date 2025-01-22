@@ -14,11 +14,11 @@ Discover patterns in the dataset by grouping funds with similar characteristics 
 
 ### Classification
 Supervised learning algorithms used for classification include:
-- **Logistic Regression**
-- **Decision Trees**
 - **Random Forest**
-- **Support Vector Machines (SVM)**
 - **Gradient Boosting**
+- **XGBoost**
+- **Support Vector Machines (SVM)**
+- **k-Nearest Neighbors (kNN)**
 
 ### Clustering
 Unsupervised learning algorithms used for clustering include:
@@ -27,14 +27,6 @@ Unsupervised learning algorithms used for clustering include:
 - **DBSCAN**
 
 ## Repository Structure
-
 - **`data/`**: Folder containing the raw dataset.
-- **`Classification+Clustering.ipynb`**: Python Jupyter Notebook for data preprocessing, classification, and clustering.
-
-## Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/insurance-fund-analysis.git
-   cd insurance-fund-analysis
-
+- **`Classification.ipynb`**: Python Jupyter Notebook for data preprocessing, classification.
+- **`Clustering.ipynb`**: Python Jupyter Notebook for data preprocessing, clustering.
