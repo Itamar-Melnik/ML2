@@ -27,6 +27,6 @@ Unsupervised learning algorithms used for clustering include:
 - **DBSCAN**
 
 ## Repository Structure
-- **`data/`**: Folder containing the raw dataset.
+- **`Insurance_data/`**: Folder containing the raw dataset.
 - **`Classification_ML.ipynb`**: Python Jupyter Notebook for data preprocessing, classification.
 - **`Clustering.ipynb_ML`**: Python Jupyter Notebook for data preprocessing, clustering.
